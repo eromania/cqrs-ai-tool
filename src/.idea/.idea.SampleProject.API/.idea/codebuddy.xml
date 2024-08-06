@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodebuddyPersistentProjectState">
+    <option name="autoFileSelection" value="true" />
+    <option name="promptHistory">
+      <list>
+        <option value="I would like create ChangeCustomerOrder in controller layer. Can you implement it with docstrings." />
+        <option value="I would like create ChangeCustomerOrder method in controller layer. Can you implement it with docstrings." />
+        <option value="I would like to add RemoveCustomerOrder feature to my Application and Api Controller layer. Can you implement it?" />
+        <option value="Apply Patch &#10;&#10;File to patch found outside content root: SampleProject.Application/Orders/RemoveCustomerOrder/RemoveCustomerOrderCommand.cs File to patch found outside content root: SampleProject.Application/Orders/RemoveCustomerOrder/RemoveCustomerOrderCommandHandler.cs" />
+      </list>
+    </option>
+    <option name="selectedModel" value="codebuddy:GPT4_Turbo_Haiku_V7" />
+  </component>
+</project>

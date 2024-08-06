@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SampleProject.Application
+build_property.ProjectDir = /Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Application/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

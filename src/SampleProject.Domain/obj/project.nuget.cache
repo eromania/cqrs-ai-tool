@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iM9XrOkNCn06sKCuQ2art7TwHZ8GO5QZgiCHyiXdZ7a/+NU4bB4spdjTj82cAb/HiYUcnGRB0qonyV1S8u1XEQ==",
+  "success": true,
+  "projectFilePath": "/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/SampleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/erdem.cicek/.nuget/packages/mediatr/8.0.0/mediatr.8.0.0.nupkg.sha512",
+    "/Users/erdem.cicek/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/erdem.cicek/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Infrastructure.deps.json
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Infrastructure.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Infrastructure.pdb
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Application.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Domain.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Application.pdb
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/bin/Debug/netcoreapp3.1/SampleProject.Domain.pdb
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.csproj.AssemblyReference.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.AssemblyInfoInputs.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.AssemblyInfo.cs
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.sourcelink.json
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SamplePr.7EE66FCE.Up2Date
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Infrastructure/obj/Debug/netcoreapp3.1/SampleProject.Infrastructure.pdb

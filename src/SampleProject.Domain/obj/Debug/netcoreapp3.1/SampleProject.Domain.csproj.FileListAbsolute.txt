@@ -1,0 +1,11 @@
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/bin/Debug/netcoreapp3.1/SampleProject.Domain.deps.json
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/bin/Debug/netcoreapp3.1/SampleProject.Domain.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/bin/Debug/netcoreapp3.1/SampleProject.Domain.pdb
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.csproj.AssemblyReference.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.AssemblyInfoInputs.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.AssemblyInfo.cs
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.csproj.CoreCompileInputs.cache
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.sourcelink.json
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.dll
+/Users/erdem.cicek/code/test/benchmark-ai-code-transformation/code-generation-method/sample-dotnet-core-cqrs-api/src/SampleProject.Domain/obj/Debug/netcoreapp3.1/SampleProject.Domain.pdb
